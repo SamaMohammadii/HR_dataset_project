@@ -1,3 +1,2 @@
 # HR_dataset_project
-Analysis of HR dataset focusing on employee income levels, satisfaction status, annual hiring trends, and attrition rates.
 This project presents a comprehensive analysis of a Human Resources dataset, aiming to uncover meaningful insights into workforce dynamics. Key areas of focus include employee income distribution, levels of job satisfaction, annual hiring trends, and attrition rates. By utilizing data visualization and statistical methods, the analysis helps identify potential patterns and factors influencing employee behavior. The results of this study can support data-driven decision-making in human capital management and provide a foundation for improving retention strategies and organizational development.
