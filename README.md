@@ -10,9 +10,9 @@ Annual Hiring Trends: Analyzing patterns in employee recruitment over the years.
 Attrition Rates: Examining factors that contribute to employee turnover.
 
 3. Methodology
-  1. Data Cleaning & Preparation: Handled missing values, corrected data types, and standardized categorical variables.
-  2. Exploratory Data Analysis (EDA): Performed statistical summaries and visual inspections to identify trends and anomalies.
-  3. Data Visualization: Used Matplotlib and Seaborn to create clear, informative charts, including histograms, bar plots, and trend lines.
+    Data Cleaning & Preparation: Handled missing values, corrected data types, and standardized categorical variables.
+    Exploratory Data Analysis (EDA): Performed statistical summaries and visual inspections to identify trends and anomalies.
+    Data Visualization: Used Matplotlib and Seaborn to create clear, informative charts, including histograms, bar plots, and trend lines.
 
 4. Tools & Technologies
 Python – Core analysis and computation
